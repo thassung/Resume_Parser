@@ -1,0 +1,269 @@
+{"label": "CERT|certification", "pattern": [{"LOWER": "american"}, {"LOWER": "association"}, {"LOWER": "for"}, {"LOWER": "respiratory"}, {"LOWER": "care"}, {"LOWER": "fellow"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "american"}, {"LOWER": "registry"}, {"LOWER": "for"}, {"LOWER": "radiologic"}, {"LOWER": "technologists"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "applied"}, {"LOWER": "cognitive"}, {"LOWER": "psychology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "aids"}, {"LOWER": "certified"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "adult"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "advanced"}, {"LOWER": "oncology"}, {"LOWER": "certified"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "american"}, {"LOWER": "oncology"}, {"LOWER": "certified"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "advanced"}, {"LOWER": "oncology"}, {"LOWER": "certified"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "advanced"}, {"LOWER": "project"}, {"LOWER": "management"}, {"LOWER": "certification"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "advanced"}, {"LOWER": "practice"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "advanced"}, {"LOWER": "practice"}, {"LOWER": "nurse"}, {"LOWER": "prescriber"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "advanced"}, {"LOWER": "practice"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "advanced"}, {"LOWER": "registered"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "american"}, {"LOWER": "registry"}, {"LOWER": "of"}, {"LOWER": "radiologic"}, {"LOWER": "technologists"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "accredited"}, {"LOWER": "record"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "american"}, {"LOWER": "society"}, {"LOWER": "for"}, {"LOWER": "clinical"}, {"LOWER": "pathology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "american"}, {"LOWER": "society"}, {"LOWER": "of"}, {"LOWER": "nuclear"}, {"LOWER": "cardiology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "american"}, {"LOWER": "society"}, {"LOWER": "for"}, {"LOWER": "psychoprophylaxis"}, {"LOWER": "in"}, {"LOWER": "obstetrics"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "athletic"}, {"LOWER": "trainer,"}, {"LOWER": "certified"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "bach"}, {"LOWER": "of"}, {"LOWER": "arts"}, {"LOWER": "of"}, {"LOWER": "business"}, {"LOWER": "administration"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "board"}, {"LOWER": "certified"}, {"LOWER": "-"}, {"LOWER": "palliative"}, {"LOWER": "care"}, {"LOWER": "management"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "ambulatory"}, {"LOWER": "post-anesthesia"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "addiction"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "chemical"}, {"LOWER": "and"}, {"LOWER": "biological"}, {"LOWER": "engineering"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certificate"}, {"LOWER": "in"}, {"LOWER": "breast"}, {"LOWER": "imaging"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certificate"}, {"LOWER": "of"}, {"LOWER": "clinical"}, {"LOWER": "competency"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certificate"}, {"LOWER": "of"}, {"LOWER": "clinical"}, {"LOWER": "competence"}, {"LOWER": "in"}, {"LOWER": "audiology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certificate"}, {"LOWER": "of"}, {"LOWER": "clinical"}, {"LOWER": "competance"}, {"LOWER": "in"}, {"LOWER": "speech"}, {"LOWER": "language"}, {"LOWER": "pathology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "continence"}, {"LOWER": "care"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "childbirth"}, {"LOWER": "educator"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "cancer"}, {"LOWER": "exercise"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "case"}, {"LOWER": "manager"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "critical"}, {"LOWER": "care"}, {"LOWER": "nurse"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "clinical"}, {"LOWER": "perfusionist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "cardiovascular"}, {"LOWER": "perfusionist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "critical"}, {"LOWER": "care"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "chiropractic"}, {"LOWER": "sports"}, {"LOWER": "physician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "chiropractic"}, {"LOWER": "certification"}, {"LOWER": "in"}, {"LOWER": "spinal"}, {"LOWER": "trauma"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "cardiovascular"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "doula"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "clinical"}, {"LOWER": "dietitian"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "dental"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "dialysis"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "emergency"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "enterostomal"}, {"LOWER": "therapy"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "family"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "flight"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "gastroenterology"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "gastroenterology"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "gastroenterology"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "health"}, {"LOWER": "education"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "hemodialysis"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "hospice"}, {"LOWER": "and"}, {"LOWER": "palliative"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "health"}, {"LOWER": "unit"}, {"LOWER": "coordinator"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "in"}, {"LOWER": "infection"}, {"LOWER": "control"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "laboratory"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "licensed"}, {"LOWER": "practitioner"}, {"LOWER": "nursing,"}, {"LOWER": "intravenous"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "clinical"}, {"LOWER": "laboratory"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "clinical"}, {"LOWER": "laboratory"}, {"LOWER": "scientist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "laboratory"}, {"LOWER": "scientist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "clinical"}, {"LOWER": "laboratory"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "laboratory"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "chirurgiae"}, {"LOWER": "magister"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "midwife"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "medical"}, {"LOWER": "assistant"}, {"LOWER": "-"}, {"LOWER": "administrative"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "medical"}, {"LOWER": "assistant,"}, {"LOWER": "clinical"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "medical-surgical"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "nursing"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "in"}, {"LOWER": "nursing"}, {"LOWER": "administration"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "in"}, {"LOWER": "nursing"}, {"LOWER": "administration,"}, {"LOWER": "advanced"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "nursing"}, {"LOWER": "director"}, {"LOWER": "of"}, {"LOWER": "long-term"}, {"LOWER": "care"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "nurse"}, {"LOWER": "midwifery"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "nuclear"}, {"LOWER": "medical"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "nephrology"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "community"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "neuroscience"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "clinical"}, {"LOWER": "nurse"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "nutrition"}, {"LOWER": "support"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "orthotist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "ostomy"}, {"LOWER": "care"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "occupational"}, {"LOWER": "health"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "occupational"}, {"LOWER": "health"}, {"LOWER": "nurse"}, {"LOWER": "-"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "ophthalmic"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "otorhinolaryngology"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "operating"}, {"LOWER": "room"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "occupational"}, {"LOWER": "therapy"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "prosthetist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "prosthetist/orthotist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "post"}, {"LOWER": "anesthesia"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "counseling"}, {"LOWER": "psychology"}, {"LOWER": "and"}, {"LOWER": "counselor"}, {"LOWER": "education"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "peritoneal"}, {"LOWER": "dialysis"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "pulmonary"}, {"LOWER": "function"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "pediatric"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "pediatric"}, {"LOWER": "nurse"}, {"LOWER": "practioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "pediatric"}, {"LOWER": "oncology"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "plastic"}, {"LOWER": "surgical"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "radiologic"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "registered"}, {"LOWER": "nurse"}, {"LOWER": "anesthetist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "registered"}, {"LOWER": "nurse"}, {"LOWER": "first"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "registered"}, {"LOWER": "hospice"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "registered"}, {"LOWER": "nurse"}, {"LOWER": "infusion"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "registered"}, {"LOWER": "nurse"}, {"LOWER": "in"}, {"LOWER": "ophthalmology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "rehabilitation"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "rehabilitation"}, {"LOWER": "registered"}, {"LOWER": "nurse"}, {"LOWER": "\u00e2\u20ac\u201c"}, {"LOWER": "advanced"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "respiratory"}, {"LOWER": "therapist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "respiratory"}, {"LOWER": "therapy"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "school"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "surgical"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "cytotechnologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "urologic"}, {"LOWER": "clinical"}, {"LOWER": "nurse"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "urologic"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "urology"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "wound"}, {"LOWER": "care"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "wound,"}, {"LOWER": "ostomy,"}, {"LOWER": "continence"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "dental"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "diploma"}, {"LOWER": "in"}, {"LOWER": "child"}, {"LOWER": "health"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "diploma"}, {"LOWER": "in"}, {"LOWER": "clinical"}, {"LOWER": "pathology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "diploma"}, {"LOWER": "in"}, {"LOWER": "diagnostic"}, {"LOWER": "radiology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "dermatology"}, {"LOWER": "nurse"}, {"LOWER": "certified"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "director"}, {"LOWER": "of"}, {"LOWER": "nursing"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "education"}, {"LOWER": "specialist"}, {"LOWER": "certificate"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "education"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "electroencephalographic"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "extraordinary"}, {"LOWER": "masochistic"}, {"LOWER": "tendencies"}, {"LOWER": "(joke"}, {"LOWER": "at"}, {"LOWER": "expense"}, {"LOWER": "of"}, {"LOWER": "emergency"}, {"LOWER": "medical"}, {"LOWER": "technicians)"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "emergency"}, {"LOWER": "medical"}, {"LOWER": "technician-basic"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "emergency"}, {"LOWER": "medical"}, {"LOWER": "technician-defibrillation"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "emergency"}, {"LOWER": "medical"}, {"LOWER": "technician"}, {"LOWER": "-"}, {"LOWER": "intermediate"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "emergency"}, {"LOWER": "medical"}, {"LOWER": "technician"}, {"LOWER": "-"}, {"LOWER": "paramedic"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "emergency"}, {"LOWER": "medical"}, {"LOWER": "technician-paramedic"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "emergency"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "enterostomal"}, {"LOWER": "therapist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "academy"}, {"LOWER": "of"}, {"LOWER": "allergy"}, {"LOWER": "and"}, {"LOWER": "immunology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "academy"}, {"LOWER": "of"}, {"LOWER": "family"}, {"LOWER": "physicians"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "academy"}, {"LOWER": "of"}, {"LOWER": "nursing"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "academy"}, {"LOWER": "of"}, {"LOWER": "neurology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "academy"}, {"LOWER": "of"}, {"LOWER": "osteopathy"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "academy"}, {"LOWER": "of"}, {"LOWER": "ophthalmology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "academy"}, {"LOWER": "of"}, {"LOWER": "orthopedic"}, {"LOWER": "surgeons"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "academy"}, {"LOWER": "of"}, {"LOWER": "pediatrics"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "allergy,"}, {"LOWER": "asthma"}, {"LOWER": "&"}, {"LOWER": "immunology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "cardiology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "chest"}, {"LOWER": "physicians"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "dentists"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "endocrinology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "emergency"}, {"LOWER": "physicians"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "gastroenterology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "obstetrics"}, {"LOWER": "and"}, {"LOWER": "gynecology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "osteopathic"}, {"LOWER": "obstetricians"}, {"LOWER": "and"}, {"LOWER": "gynecologists"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "physicians"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "preventive"}, {"LOWER": "medicine"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "radiology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "surgeons"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "sports"}, {"LOWER": "medicine"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "academy"}, {"LOWER": "of"}, {"LOWER": "general"}, {"LOWER": "dentistry"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "medical"}, {"LOWER": "association"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "occupational"}, {"LOWER": "therapy"}, {"LOWER": "association"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "psychiatric"}, {"LOWER": "association"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "american"}, {"LOWER": "public"}, {"LOWER": "health"}, {"LOWER": "association"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "american"}, {"LOWER": "pathologists"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "critical"}, {"LOWER": "care"}, {"LOWER": "medicine"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "physicians"}, {"LOWER": "and"}, {"LOWER": "surgeons"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "in"}, {"LOWER": "dental"}, {"LOWER": "surgery"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "faculty"}, {"LOWER": "of"}, {"LOWER": "anaesthetists"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "faculty"}, {"LOWER": "of"}, {"LOWER": "anaesthetists"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "royal"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "surgeons"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "international"}, {"LOWER": "chiropractic"}, {"LOWER": "association"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "international"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "chiropractors"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "fellow"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "international"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "surgeons"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "family"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "histologic"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "histotechnologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "acupuncturist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "laboratory"}, {"LOWER": "animal"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "athletic"}, {"LOWER": "trainer"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "athletic"}, {"LOWER": "trainer,"}, {"LOWER": "certified"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "lighting"}, {"LOWER": "certified"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "lamaze"}, {"LOWER": "certified"}, {"LOWER": "childbirth"}, {"LOWER": "educator"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "clinical"}, {"LOWER": "professional"}, {"LOWER": "counselor"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "clinical"}, {"LOWER": "social"}, {"LOWER": "worker"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "dietitian"}, {"LOWER": "nutritionist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "dispensing"}, {"LOWER": "optician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "clinical"}, {"LOWER": "social"}, {"LOWER": "worker"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "midwife"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "legal"}, {"LOWER": "nurse"}, {"LOWER": "consultant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "legal"}, {"LOWER": "nurse"}, {"LOWER": "consultant"}, {"LOWER": "certified"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "professional"}, {"LOWER": "counselor"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "practice"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "physical"}, {"LOWER": "therapy"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licentiate"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "royal"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "physicians"}, {"LOWER": "of"}, {"LOWER": "london"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licentiate"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "royal"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "surgeons"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "visiting"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "vocational"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "medical"}, {"LOWER": "examiner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "marriage"}, {"LOWER": "and"}, {"LOWER": "family"}, {"LOWER": "therapist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "medical"}, {"LOWER": "laboratory"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "medical"}, {"LOWER": "library"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "member"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "royal"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "physicians"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "member"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "royal"}, {"LOWER": "college"}, {"LOWER": "of"}, {"LOWER": "surgeons"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "medical"}, {"LOWER": "records"}, {"LOWER": "librarian"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "medical"}, {"LOWER": "record"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "medical"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "medical"}, {"LOWER": "technologist"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "medicas"}, {"LOWER": "veterinarius"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "nuclear"}, {"LOWER": "cardiology"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "nuclear"}, {"LOWER": "medicine"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "nurse"}, {"LOWER": "massage"}, {"LOWER": "therapist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "nationally"}, {"LOWER": "registered"}, {"LOWER": "paramedic"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "oncology"}, {"LOWER": "certified"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "orthopedic"}, {"LOWER": "clinical"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "occupational"}, {"LOWER": "health"}, {"LOWER": "nursing"}, {"LOWER": "clinical"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "orthopedic"}, {"LOWER": "nurse"}, {"LOWER": "certified"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "occupational"}, {"LOWER": "therapist"}, {"LOWER": "-"}, {"LOWER": "canada"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "occupational"}, {"LOWER": "therapist"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "orthopedic"}, {"LOWER": "technician,"}, {"LOWER": "certified"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "occupational"}, {"LOWER": "therapist"}, {"LOWER": "licensed"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "licensed"}, {"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "post-baccalaureate"}, {"LOWER": "certificate"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "physician"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "certified"}, {"LOWER": "physician's"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "physician's"}, {"LOWER": "assistant"}, {"LOWER": "certified"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "graduate"}, {"LOWER": "in"}, {"LOWER": "pharmacy"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "public"}, {"LOWER": "health"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "pediatric"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "physical"}, {"LOWER": "therapy"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "dietician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "dietitian"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "dental"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "diagnostic"}, {"LOWER": "cardiac"}, {"LOWER": "sonographer"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "dental"}, {"LOWER": "hygienist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "diagnostic"}, {"LOWER": "medical"}, {"LOWER": "sonographer"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "radiologic"}, {"LOWER": "electroencephalography"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "evoked"}, {"LOWER": "potentials"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "health"}, {"LOWER": "information"}, {"LOWER": "administrator"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "health"}, {"LOWER": "information"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "nurse"}, {"LOWER": "anesthetist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "nurse"}, {"LOWER": "certified"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "nurse"}, {"LOWER": "clinical"}, {"LOWER": "specialist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "ophthalmic"}, {"LOWER": "ultrasound"}, {"LOWER": "biometrist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "pharmacist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "physical"}, {"LOWER": "therapist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "record"}, {"LOWER": "administrator"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "respiratory"}, {"LOWER": "therapist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "recreation"}, {"LOWER": "therapist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "radiologic"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "radiologic"}, {"LOWER": "technologist"}, {"LOWER": "with"}, {"LOWER": "specialization"}, {"LOWER": "in"}, {"LOWER": "nuclear"}, {"LOWER": "medicine"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "radiologic"}, {"LOWER": "technologist"}, {"LOWER": "with"}, {"LOWER": "specialization"}, {"LOWER": "in"}, {"LOWER": "radiology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "radiologic"}, {"LOWER": "technologist"}, {"LOWER": "with"}, {"LOWER": "specialization"}, {"LOWER": "in"}, {"LOWER": "radiation"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "recreational"}, {"LOWER": "therapist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "registered"}, {"LOWER": "vascular"}, {"LOWER": "technologist"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "specialist"}, {"LOWER": "certificate"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "specialist"}, {"LOWER": "in"}, {"LOWER": "library"}, {"LOWER": "and"}, {"LOWER": "information"}, {"LOWER": "science"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "specialist"}, {"LOWER": "in"}, {"LOWER": "blood"}, {"LOWER": "banking"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "specialist"}, {"LOWER": "in"}, {"LOWER": "chemistry"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "specialist"}, {"LOWER": "in"}, {"LOWER": "cytotechnology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "specialist"}, {"LOWER": "in"}, {"LOWER": "hematology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "specialist"}, {"LOWER": "in"}, {"LOWER": "laboratory"}, {"LOWER": "safety"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "specialist"}, {"LOWER": "in"}, {"LOWER": "microbiology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "surgical"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "specialist"}, {"LOWER": "in"}, {"LOWER": "virology"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "teaching"}, {"LOWER": "certificate"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "veterinary"}, {"LOWER": "technician"}]}
+{"label": "CERT|certification", "pattern": [{"LOWER": "women's"}, {"LOWER": "health"}, {"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
