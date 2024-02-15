@@ -57,4 +57,4 @@
 
    Below is how the app should look like.
 
-   
+   ![image](https://github.com/thassung/Resume_Parser/assets/105700459/c8abda73-175b-4a6d-90f7-81c29dbfb588)
