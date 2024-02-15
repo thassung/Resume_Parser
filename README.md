@@ -8,7 +8,7 @@
 
    The language model is from spacy. The *en_core_web_trf* is noteably a stronger model but it comes with a much larger file. To keep the app light and fast, I use *en_core_web_md* for this demo app instead. The [resume dataset from kaggle](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset) is used to demonstrate the capability of spacy parser and make a skill parser, and a [sample dataset](https://ait.ac.th/wp-content/uploads/2021/12/chaky_resume.pdf) is parsed extensively to demonstrate how custom parser works.
 
-   There are 4 custom parsers for certificates, education degrees, phone number, and email. Json lists of [degrees](https://gist.github.com/cblanquera/21c925d1312e9a4de3c269be134f3a6c#file-degrees-json) and [certs](https://gist.github.com/cblanquera/21c925d1312e9a4de3c269be134f3a6c#file-certs-json) are used to extract pattern (hard-code) of each degree and certificate names for the custom parser. The other two parsers—phone number and email—use regex pattern to detect those information.
+   There are 4 custom parsers for certificates, education degrees, phone number, and email. Json of [degrees](https://gist.github.com/cblanquera/21c925d1312e9a4de3c269be134f3a6c#file-degrees-json) and [certs](https://gist.github.com/cblanquera/21c925d1312e9a4de3c269be134f3a6c#file-certs-json) are converted into JsonList in [converter.ipynb](https://github.com/thassung/Resume_Parser/blob/main/converter.ipynb) and used to extract pattern (hard-code) of each degree and certificate names for the custom parser. The other two parsers—phone number and email—use regex pattern to detect those information.
 
 ## Features
 
