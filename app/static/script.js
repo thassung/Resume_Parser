@@ -157,3 +157,46 @@ $(document).ready(function () {
     });
   });
 });
+
+$(document).ready(function() {
+  $('#downloadJsonResponse').click(function() {
+
+    var formData = new FormData();
+    var fileInput = document.getElementById('upload');
+    var file = fileInput.files[0];
+    var messageTextarea = document.getElementById('message').value.trim();
+
+    if (file) {
+      formData.append('upload', file);
+    } else if (messageTextarea) {
+      formData.append('message', messageTextarea);
+    } else {
+      alert('Please upload a file or enter text.');
+      return;
+    }
+    
+    $.ajax({
+      url: '/upload',
+      type: 'POST',
+      data: formData,
+      processData: false,
+      contentType: false,
+      success: function(data) {
+        // Create a Blob with the JSON data
+        var blob = new Blob([JSON.stringify(data)], {type: "application/json"});
+        // Create an anchor element and trigger a download
+        var url = URL.createObjectURL(blob);
+        var a = document.createElement('a');
+        a.href = url;
+        a.download = 'response.json';
+        document.body.appendChild(a); // We need to append the element to the dom -> this is invisible
+        a.click(); // simulate click
+        document.body.removeChild(a); // remove the element
+        URL.revokeObjectURL(url); // release the object URL
+      },
+      error: function(xhr, status, error) {
+        console.error("Error: " + error);
+      }
+    });
+  });
+});
