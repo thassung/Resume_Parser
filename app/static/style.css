@@ -11,6 +11,24 @@ body {
     height: 250px; 
     visibility: hidden; 
 }
+.header {
+    width: 100%;
+    border: none;
+    background: #FFFFFF;
+    font-weight: 500;
+    font-size: 25px;
+    font-style: bold;
+    color: #07074D;
+    outline: none;
+    resize: none;
+    margin-bottom: 0px;
+}
+.brief-description {
+    margin-top: 0px;
+    font-style: italic; 
+    color:darkgray; 
+    font-size: 12px;
+}  
 .formbold-main-wrapper {
     display: flex;
     align-items: center;
@@ -85,7 +103,7 @@ body {
     border-color: #6A64F1;
 }
 .formbold-form-label {
-    color: #07074D;
+    color: #DDE3EC; 
     font-weight: 500;
     font-size: 14px;
     line-height: 24px;
