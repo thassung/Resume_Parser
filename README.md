@@ -34,7 +34,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/thassung/TrydoDict.git
+   git clone https://github.com/thassung/Resume_Parser.git
    ```
 
 2. Install the required Python dependencies:
